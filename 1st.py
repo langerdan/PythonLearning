@@ -1,6 +1,1 @@
-# my first python program
-print('Hello, world!')
-for x in 'hello, world':
-    print(x)
-
-input();
+print("{name}\n{2}\n{1}\n".format(0, 1, 3, name ='a'))
